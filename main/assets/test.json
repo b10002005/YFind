@@ -1,0 +1,36 @@
+{
+  "wifi": [
+    {
+      "Administration": "立法院",
+      "Region": "臺北市",
+      "HotspotName": "立法院大門會客室",
+      "Address": "100臺北市中正區中山南路1號",
+      "Latitude": "25.043965",
+      "Longitude": "121.519581"
+    },
+    {
+      "Administration": "立法院",
+      "Region": "臺北市",
+      "HotspotName": "立法院議場",
+      "Address": "100臺北市中正區中山南路1號",
+      "Latitude": "25.043717",
+      "Longitude": "121.520635"
+    },
+    {
+      "Administration": "教育部",
+      "Region": "臺北市",
+      "HotspotName": "國家圖書館2樓參考室",
+      "Address": "100臺北市中正區中山南路20號",
+      "Latitude": "25.03717",
+      "Longitude": "121.516567"
+    },
+    {
+      "Administration": "衛生福利部",
+      "Region": "花蓮縣",
+      "HotspotName": "玉里醫院-萬寧院區門診大廳",
+      "Address": "983花蓮縣富里鄉鎮寧13鄰141號",
+      "Latitude": "23.25323",
+      "Longitude": "121.315847"
+    }
+  ]
+}
